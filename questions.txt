@@ -1,0 +1,15 @@
+C1What is the capital of FranceParis
+C1What is 2 + 24
+C1What color is the sky on a clear dayBlue
+C1Who wrote 'To Kill a Mockingbird'Harper Lee
+C1What is the boiling point of water in Celsius100
+C2What is the square root of 14412
+C2Who developed the theory of relativityAlbert Einstein
+C2What is the largest planet in our solar systemJupiter
+C2What is the powerhouse of the cellMitochondria
+C2Which element has the atomic number 79Gold
+CCSolve 15  15 - 25 + 10  2200
+CCName the longest river in the world.Nile
+CCWhich country has won the most FIFA World CupsBrazil
+CCWhat is the rarest blood typeAB negative
+CCWho painted the Mona LisaLeonardo da Vinci
