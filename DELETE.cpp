@@ -3,9 +3,9 @@
 #pragma GCC target("avx,avx2,fma")
 using namespace std;
 # define ll long long
-# define st string
 # define endl "\n"
 # define fast ios_base::sync_with_stdio(false); cin.tie(nullptr)
+const ll mod = 1ll*(1e9+7);
 ll solve(vector<ll>& a) {
     ll dp0 = 1; 
     ll dp1 = 0; 
@@ -41,5 +41,5 @@ int main(){
     ll n;cin>>n;
     vector<ll> a(n);
     for(ll i=0;i<n;i++)cin>>a[i];
-    cout<<solve(a);
+    cout<<solve(a)%mod;
 }       
