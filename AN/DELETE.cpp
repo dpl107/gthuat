@@ -36,8 +36,12 @@ ll solve(vector<ll>& a) {
     
     return dp3;
 }
+void READFILE(){
+    freopen("DELETE.inp","r",stdin);
+    freopen("DELETE.out","w",stdout);
+}
 int main(){
-    fast;
+    fast;READFILE();
     ll n;cin>>n;
     vector<ll> a(n);
     for(ll i=0;i<n;i++)cin>>a[i];
